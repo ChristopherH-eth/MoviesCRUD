@@ -2,7 +2,7 @@ package main
 
 /**
  * @file main.go
- * @author Original author: Free Code Camp
+ * @author Original author: Free Code Camp (Akhil Sharma)
  *		   Changes made by 0xChristopher for learning purposes
  *
  * A simple CRUD implementation which starts up a webserver and allows user to view all of the stored movies,
